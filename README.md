@@ -16,3 +16,5 @@ here are some of the key things that we will consequently work on :
   # NOTE:
       # it is important that you understand the nature of your data.
       
+DAY 4: Training a model, regression, data split and evaluation 
+https://colab.research.google.com/drive/1LT5kAAAi1FARvNwXZvC7_UVg4u9OsOCU?usp=sharing 
